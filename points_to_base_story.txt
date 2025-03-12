@@ -1,0 +1,23 @@
+descriptive and diagnostic
+desc - power bi does it
+but for diagnostic - 5w ( where, when, who, what, why) , what obdi power bi does it but why?? we cant answer it it power bi
+thats why we did process mining. below our threshold. power bi dekhbe kota case and root cause( Celonis)
+
+1. client problem ( do they know it or we do the EDA)
+2. strategize phase ( project req doc ) tables, KPIs, timeline.  BRD, SRD (business, software)
+3. data pull, dashboard ( Minimum viable product) launch korte hoy
+4. we can go for a soft launch or pilot it ( full dashboard) business value, demos, feedback
+
+i will explain one process ,  which KPIs we focused on, bottleneck, improvement suggestion, next steps
+
+
+
+5 whys:
+1. why are you late
+2. why are you late in starting
+3. why did you return late at night
+4. why did you party at hard
+
+what is predictive analytics
+
+supply chain management optimized ( , audit
